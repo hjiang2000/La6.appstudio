@@ -46,6 +46,30 @@
             "newControl3",
             "newControl3.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "newControl4",
+            "newControl4.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "membership",
+            "membership.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calculator",
+            "calculator.json"
+          ]
         }
       ],
       "configxml": null,
@@ -69,7 +93,7 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "newControls2",
+      "firstform": "calculator",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
